@@ -1,3 +1,1 @@
-hi
-hlo
-name=viijin
+This is the new content for the file.
